@@ -1,4 +1,4 @@
-package main.chapter5.item28;
+package main.chapter5.item28_generics;
 // List-based generic reduction with wildcard type - Page 136
 
 import java.util.ArrayList;

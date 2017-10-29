@@ -1,4 +1,4 @@
-package main.chapter6.item30;
+package main.chapter6.item30_ENUM;
 
 public enum Planet {
     MERCURY(3.302e+23, 2.439e6), VENUS(4.869e+24, 6.052e6), EARTH(5.975e+24,

@@ -1,4 +1,4 @@
-package main.chapter5.item28;
+package main.chapter5.item28_generics;
 // Using a recursive type bound with wildcards - Page 138-139
 
 import java.util.Arrays;

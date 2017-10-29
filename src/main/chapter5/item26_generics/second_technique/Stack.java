@@ -1,4 +1,4 @@
-package main.chapter5.item26.second_technique;
+package main.chapter5.item26_generics.second_technique;
 // Generic stack using Object[] - Pages 125-127
 
 import java.util.Arrays;

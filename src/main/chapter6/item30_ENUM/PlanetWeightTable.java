@@ -1,4 +1,4 @@
-package main.chapter6.item30;
+package main.chapter6.item30_ENUM;
 
 public class PlanetWeightTable {
     public static void main(String[] args) {

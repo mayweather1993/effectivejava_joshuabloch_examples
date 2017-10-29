@@ -1,4 +1,4 @@
-package main.chapter5.item26.first_technique;
+package main.chapter5.item26_generics.first_technique;
 
 import java.util.Arrays;
 

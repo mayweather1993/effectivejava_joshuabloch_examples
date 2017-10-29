@@ -1,4 +1,4 @@
-package main.chapter5.item27;
+package main.chapter5.item27_generics;
 // Using a recursive type bound to express mutual comparability - Pages 132-133
 
 import java.util.Arrays;

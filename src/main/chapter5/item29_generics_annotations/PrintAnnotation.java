@@ -1,4 +1,4 @@
-package main.chapter5.item29;
+package main.chapter5.item29_generics_annotations;
 // Use of asSubclass to safely cast to a bounded type token - Page 146
 
 import java.lang.annotation.Annotation;

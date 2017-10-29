@@ -1,4 +1,4 @@
-package main.chapter5.item28;
+package main.chapter5.item28_generics;
 // Generic stack with bulk methods using wildcard types -
 
 import java.util.ArrayList;

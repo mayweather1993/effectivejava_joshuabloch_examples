@@ -1,4 +1,4 @@
-package main.chapter5.item28;
+package main.chapter5.item28_generics;
 // Private helper method for wildcard capture - Pages 139-140
 
 import java.util.Arrays;

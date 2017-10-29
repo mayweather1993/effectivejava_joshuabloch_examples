@@ -1,4 +1,4 @@
-package main.chapter5.item27;
+package main.chapter5.item27_generics;
 // Generic singleton factory method - Pages 131-132
 
 public class GenericSingletonFactory {

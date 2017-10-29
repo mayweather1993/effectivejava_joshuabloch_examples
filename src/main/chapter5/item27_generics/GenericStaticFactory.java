@@ -1,4 +1,4 @@
-package main.chapter5.item27;
+package main.chapter5.item27_generics;
 // Generic static factory method - Pages 130-131
 
 import java.util.HashMap;

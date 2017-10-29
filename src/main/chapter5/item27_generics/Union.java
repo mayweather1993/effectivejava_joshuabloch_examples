@@ -1,4 +1,4 @@
-package main.chapter5.item27;
+package main.chapter5.item27_generics;
 // Generic union method and program to exercise it - pages 129 - 130
 
         import java.util.Arrays;

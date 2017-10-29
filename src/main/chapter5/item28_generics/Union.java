@@ -1,4 +1,4 @@
-package main.chapter5.item28;
+package main.chapter5.item28_generics;
 // Generic union method with wildcard types - Pages 137-138
 
 import java.util.HashSet;

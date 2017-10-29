@@ -1,4 +1,4 @@
-package main.chapter5.item29;
+package main.chapter5.item29_generics_annotations;
 // Typesafe heterogeneous container - Pages 142-145
 
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package main.chapter6.item30;
+package main.chapter6.item30_ENUM;
 
 enum PayrollDay {
     MONDAY(PayType.WEEKDAY), TUESDAY(PayType.WEEKDAY), WEDNESDAY(
